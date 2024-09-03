@@ -1,7 +1,10 @@
 ### Oii! Eu sou o Diego Guaglianone 👋
 Sempre aberto a novos conhecimentos e disposto a chegar longe! 
 
-- 🌱 Atualmente estou estudando:
+- 🌱 Atualmente estou estudando na parte da manhã
+
+- 🔭 A partir de 2025 horário da faculdade será a noite
+- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
