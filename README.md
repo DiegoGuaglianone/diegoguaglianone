@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Diego Guaglianone 👋
 Sempre aberto a novos conhecimentos e disposto a chegar longe! 
 
-- 🌱 Atualmente estou estudando na parte da manhã
+- 🌱 Atualmente procurando estágio na área
 
 - 🔭 A partir de 2025 horário da faculdade será a noite
 
