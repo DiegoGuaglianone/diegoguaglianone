@@ -38,12 +38,16 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🏆 Conquistas e Estatísticas
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoGuaglianone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGuaglianone&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiegoGuaglianone&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoGuaglianone&theme=dracula" />
 </div>
 
 <br>
