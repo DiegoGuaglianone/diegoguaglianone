@@ -1,6 +1,6 @@
 <div align="center">
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=3466D4&background=FFF63C00&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Diego+Guaglianone;Formado+em+Sistemas+para+Internet;Terminal+Online+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=3466D4&background=FFF63C00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Diego+Guaglianone;Formado+em+Sistemas+para+Internet;Terminal+Online+Developer" alt="Typing SVG" /></a>
   <br>
 
   <p align="center">
