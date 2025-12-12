@@ -40,16 +40,6 @@
 
 ### 🏆 Conquistas e Estatísticas
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiegoGuaglianone&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoGuaglianone&theme=dracula" />
-</div>
-
 <br>
 
 <div align="center">
