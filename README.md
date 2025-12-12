@@ -38,7 +38,7 @@
 
 ---
 
-### 🏆 Conquistas e Estatísticas
+### 🏆 Estatísticas
 
 <br>
 
